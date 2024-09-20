@@ -1,7 +1,9 @@
 {
   "Clans": {
     "Admins": {
+      "Name": "Admins",
       "Status": "Active",
+      "Leader": "ALL",
       "Maps": "Abberation, Amissa, The Center",
       "wartimeStatus": "Not At War"
     }
